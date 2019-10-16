@@ -125,7 +125,7 @@ If you got stuck somewhere or have any questions (or just wanna say hello), feel
 
 Happy Hacking!
 ## Next steps
-You are now all set to conquer the world of open-source!
+You are now all set to conquer the world of open-source!hi
 1. Explore around GitHub to find a lot more open-source repositories.
 2. Submit a PR to the repository. A PR can be anything from a simple typo fix to an entire codebase rewrite.
 3. After submitting a total of 4 PRs (including the one you submitted in this tutorial), you are now qualified to get some cool swags from DigitalOcean.
